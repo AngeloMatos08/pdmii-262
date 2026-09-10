@@ -1,3 +1,4 @@
+<img width="995" height="650" alt="Captura de tela de 2026-09-10 16-46-33" src="https://github.com/user-attachments/assets/9f8c79ac-26e8-4bc8-8480-324b72f44689" />
 Crie uma aplicação Dart que acessa um banco de dados com tratamento de exceção.
 
 Use o prompt abaixo para submeter ao Gemini e criar o código.
