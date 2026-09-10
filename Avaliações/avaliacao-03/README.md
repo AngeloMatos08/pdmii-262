@@ -1,8 +1,8 @@
-AVALIAÇÃO-
+Crie uma aplicação Dart que acessa um banco de dados com tratamento de exceção.
 
-Executar exatamente as seguintes etapas para concluir essa atividade:
-1) Criar uma conta no GitHub;
-2) Criar um repositório chamado pdmII-261;
-3) Criar uma estrutura de pastas no repositório conforme as orientações definidas em Regras.
-4) Na pasta avaliações criar 10 pastas correspondentes às avaliacao-01 até avaliacao-10. Em cada pasta deverá ter um arquivo README.md que deverá conter a descrição da atividade a ser realizada. Inicialmente estarão vazias, mas a medida que forem definidas deverão conter a descrição do que será feito em cada atividade.
-5) Postar o link do repositório criado no GitHub da atividade-01 do Google Classroom para entregar a atividade.
+Use o prompt abaixo para submeter ao Gemini e criar o código.
+
+Evidenciar o código na atividade_03 no GitHub com o print da execução.
+
+Segue o prompt:
+Crie um programa em Dart que faz uma chamada assincrona a um banco de dados SQLite (alunos.db). O acesso ao banco de dados consistira das seguintes operações: 1) Se o banco de dados alunos.db não existir crie-o na raiz do projeto; 2) Em criando-o crie uma tabela tb_alunos; 3) Incluir tres alunos nessa tabela tb_alunos; 4) Listar o conteúdo dessa tabela tb_alunos. Todas as operações devem possuir um tratamento de exceção.
